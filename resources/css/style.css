@@ -1,22 +1,25 @@
-body 
-{
+
+body {
   background-color: lightblue;
-  
 }
+
 * {
   font-family: "Times New Roman", Times, serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   text-align: center;
 }
 
 h1 {
-  color: green;
+  color: purple;
   font-size: 80px;
   bottom: 0;
 }
-h2 { 
+
+h2 {
   box-sizing: border-box;
   margin: auto;
 }
