@@ -1,4 +1,3 @@
-
 body {
   background-color: lightblue;
 }
@@ -31,6 +30,7 @@ p {
 a {
   text-decoration: none;
   color: red;
+  font-weight: bold;
 }
 
 .spiritual-self {
@@ -46,14 +46,3 @@ a {
   font-style: italic;
   font-size: 30px;
 }
-
-.destinationList 
-{ 
-  text-align: center;
-}
-
-
-
-
-
-
