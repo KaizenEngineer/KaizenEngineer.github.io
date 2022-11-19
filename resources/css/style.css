@@ -1,14 +1,9 @@
 body {
   background-color: lightblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
-* {
-  font-family: "Times New Roman", Times, serif;
-}
-
-h1,
-h2,
-h3 {
+h1, h2, h3 {
   text-align: center;
 }
 
@@ -18,10 +13,6 @@ h1 {
   bottom: 0;
 }
 
-h2 {
-  box-sizing: border-box;
-  margin: auto;
-}
 p {
   font-size: 18px;
   text-align: center;
@@ -45,4 +36,10 @@ a {
   text-align: center;
   font-style: italic;
   font-size: 30px;
+}
+
+.myAttributes {
+  text-align: center;
+  font-size: 30px;
+  color: blue;
 }
