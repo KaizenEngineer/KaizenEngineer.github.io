@@ -1,5 +1,4 @@
-# Kaizen Engineer 
-## Etheno Santos
+# Kaizen Engineer - Etheno Santos
 
 Project Site... to be continued!!!
 
